@@ -37,4 +37,10 @@ print(binary_search(data, 13))
 #test3 追記1 追記2 追記3
 #>>>>>>> test3
 
+#<<<<<<< HEAD
 #test7 add1 add2 add3
+#=======
+
+
+#test6 make
+
