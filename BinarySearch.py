@@ -20,4 +20,4 @@ def binary_search(data, key):
 
 print(binary_search(data, 13))
 #test用
-#test用　test-1
+#test用　test-1 commit　追加1
