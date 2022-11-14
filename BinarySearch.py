@@ -38,3 +38,5 @@ print(binary_search(data, 13))
 #>>>>>>> test3
 
 #main
+
+#push後追加
