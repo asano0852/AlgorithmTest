@@ -38,5 +38,10 @@ print(binary_search(data, 13))
 #>>>>>>> test3
 
 #main
+<<<<<<< HEAD
 
 #push後追加
+=======
+#main
+#main
+>>>>>>> c6cdcd0b5457c846366aabd8f174a308e602fd64
