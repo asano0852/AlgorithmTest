@@ -33,8 +33,6 @@ print(binary_search(data, 13))
 
 #<<<<<<< HEAD
 #main
-
-
 #=======
 #test3 追記1 追記2 追記3
 #>>>>>>> test3
