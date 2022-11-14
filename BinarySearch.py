@@ -19,3 +19,4 @@ def binary_search(data, key):
     return "false"
 
 print(binary_search(data, 13))
+#test用
