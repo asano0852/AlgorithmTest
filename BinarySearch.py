@@ -28,4 +28,4 @@ print(binary_search(data, 13))
 
 #test用　test-1 追記1 追記2
 
-
+#test用 test-1 追記1 追記2 追記3
