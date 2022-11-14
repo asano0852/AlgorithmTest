@@ -21,6 +21,7 @@ def binary_search(data, key):
 print(binary_search(data, 13))
 #test用
 
+
 #test用　test-1-1-1 追記1 追記2
 
 
@@ -29,3 +30,10 @@ print(binary_search(data, 13))
 #test用　test-1 追記1 追記2
 
 #test用 test-1 追記1 追記2 追記3
+
+#test用2
+#test用2-1 commit追加
+#test用2-1 checkout後HEADからブランチ作成 さらにcommit追加
+
+#test用　test-1-1-1 追記1 追記2
+
