@@ -36,3 +36,5 @@ print(binary_search(data, 13))
 #=======
 #test3 追記1 追記2 追記3
 #>>>>>>> test3
+
+#test7
